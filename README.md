@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://awsimages.detik.net.id/community/media/visual/2022/09/10/5-hal-soal-bjorka-hacker-yang-klaim-retas-dokumen-jokowi-hingga-bin_169.jpeg?w=700&q=90" width="500" height="320" />
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
