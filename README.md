@@ -7,17 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/@casanovahypnos" target="blank"><img src="https://img.shields.io/twitter/follow/@casanovahypnos?logo=twitter&style=for-the-badge" alt="@casanovahypnos" /></a> </p>
 
-- 🔭 Bu Projeler Üzerinde Çalışıyorum **Discord Public PM2 & Darkorbit Server**
+- † Bu Projeler Üzerinde Çalışıyorum **Discord Public PM2 & Darkorbit Server**
 
-- 🌱 Öğrenmeye Başladım **Javascript & C#**
+- † Öğrenmeye Başladım **Javascript & C#**
 
-- 👯 Bu Dillerde İşbirliği Yapılır **Javascript & Pm2 Bot**
+- † Bu Dillerde İşbirliği Yapılır **Javascript & Pm2 Bot**
 
-- 🤝 Bu Yazılım Dili Hakkında Yardım Arıyorum **Javascript & C#**
+- † Bu Yazılım Dili Hakkında Yardım Arıyorum **Javascript & C#**
 
-- 📫 Gmail Hesabım **casanova05cs@gmail.com**
+- Discord Public Sunucum [https://discord.gg/vampir](https://discord.gg/vampir)
 
-- ⚡ Aktivelerim :) **I like hanging out with boyfriends and girlfriends, drinking, living life**
+- Discord Ekip Sunucum [https://discord.gg/a2h4Tzktpy](https://discord.gg/a2h4Tzktpy)
+
+- † Gmail Hesabım **casanova05cs@gmail.com**
+
+- Youtube Kanalım **https://www.youtube.com/channel/UCqWn26l45cG-fMSS5zLMmiQ**
+
+- ⚡ Aktivelerim :) **Erkek Ve Kız Arkadaşlarla Gezmek İçmek Keyfine Bakacan Bu Kahpe Dünya'da**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
