@@ -15,9 +15,9 @@
 
 - † Bu Yazılım Dili Hakkında Yardım Arıyorum **Javascript & C#**
 
-- Discord Public Sunucum [https://discord.gg/vampir](https://discord.gg/vampir)
+- Discord Public Sunucum [https://discord.gg/vampir](https://discord.gg/kapadokya)
 
-- Discord Ekip Sunucum [https://discord.gg/a2h4Tzktpy](https://discord.gg/a2h4Tzktpy)
+- Discord Ekip Sunucum [https://discord.gg/](https://discord.gg/)
 
 - † Gmail Hesabım **casanova05cs@gmail.com**
 
